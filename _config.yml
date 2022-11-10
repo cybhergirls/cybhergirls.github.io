@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:whitlocknm@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/cybhergirls"}
+  - {title: Email, url: "mailto:whitlocknm@gmail.com"}
+  - {title: Github, url: "https://github.com/cybhergirls"}
   - {title: YouTube, url: "https://www.youtube.com/@cybhergirls"}
 
 comments:
