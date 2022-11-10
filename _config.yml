@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "ziya.pdf", title: "CV"}
+  - {title: "CV", url: "https://docs.google.com/document/d/1bt1QrhktF7pPE8363HwfV9N2dyNoCY6petY6mSV_LVs/edit?usp=sharing"}
   - {title: "Blog", file: "blog.md"}
   - {title: "About Author", url: "author.md"}
 
