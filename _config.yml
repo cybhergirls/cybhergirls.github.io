@@ -18,7 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://docs.google.com/document/d/1bt1QrhktF7pPE8363HwfV9N2dyNoCY6petY6mSV_LVs/edit?usp=sharing"}
   - {title: "Blog", file: "blog.md"}
-  - {title: "About Author", url: "author.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Email, url: "mailto:whitlocknm@gmail.com"}
