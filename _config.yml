@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:whitlocknm@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/cybhergirls"}
-  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@cybhergirls"}
+  - {title: YouTube, url: "https://www.youtube.com/@cybhergirls"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
