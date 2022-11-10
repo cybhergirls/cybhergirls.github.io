@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "ziya.pdf", title: "CV"}
   - {title: "Blog", file: "blog.md"}
-  - {title: "About Author"}
+  - {title: "About Author", file: "author.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Email, url: "mailto:whitlocknm@gmail.com"}
