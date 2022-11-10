@@ -18,7 +18,7 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
  - supports pagination
  - feed generation
  - responsive
- - syntax highlighting
+ - syntax highlightingg
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
 ## Based on
