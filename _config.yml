@@ -24,6 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Email, url: "mailto:whitlocknm@gmail.com"}
   - {title: Github, url: "https://github.com/cybhergirls"}
   - {title: YouTube, url: "https://www.youtube.com/@cybhergirls"}
+  - {title: TikTok, url: "https://www.tiktok.com/@cybhergirls?_t=8XFavj3j3ud&_r=1"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
